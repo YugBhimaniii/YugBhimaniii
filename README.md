@@ -69,14 +69,7 @@ I'm a Software Developer and 3rd-year engineering student at MSRIT, Bengaluru. I
 - **Academic Research Intern @ IISc Bengaluru** (Nov 2025 – Apr 2026): Simulated and modeled data for optical fibre communication systems, analyzing chromatic dispersion and nonlinear effects.
 - **Systems & Hardware (Extracurricular):** Designed RC aircraft control systems for TechnoXian World Cup 2025 (Top 10 Global); ExeCom Member at IEEE Robotics & Automation Society.
 
----
 
-### 📊 GitHub Stats
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YugBhimaniii&show_icons=true&hide_border=true&theme=transparent" alt="YugBhimaniii's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YugBhimaniii&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" height="150" />
-</div>
 
 ---
 
