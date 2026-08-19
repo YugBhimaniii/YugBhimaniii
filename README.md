@@ -58,11 +58,7 @@ I'm a Software Developer and 3rd-year engineering student at MSRIT, Bengaluru. I
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **ResumeForge** | SaaS resume builder with ATS-optimization logic and real-time generation. | Next.js, Supabase, Claude API |
 | **[Sahayata (AML Platform)](https://github.com/YugBhimaniii/AML_BASED_PLATFORM)** | AI-powered compliance platform for financial investigators to detect anomalies. | React, FastAPI, Gemini, Gemma |
-| **Skilled Trades Job Board** | Niche job board with verified skill badges, pay transparency, and hyperlocal matching. | Next.js, Tailwind, Supabase |
-| **iSpend** | Personal finance and money-tracking app with budgeting and goal-tracking features. | iOS, Figma |
-| **[/CAL DSA Tracker]** | Spaced-repetition system for DSA practice synced with Google Calendar. | TypeScript / Software Tooling |
 | **[ESP32 Gesture Recognition](https://github.com/YugBhimaniii/Gesture-Recognition-Project)** | Edge ML classifying hand gestures using a 1D CNN on microcontrollers. | C++, Python, TFLite Micro |
 
 ---
