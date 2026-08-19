@@ -8,7 +8,7 @@
 I'm a Software Developer and 3rd-year engineering student at MSRIT, Bengaluru. I specialize in building full-stack applications—from architecting robust backends and databases to crafting seamless, ATS-optimized frontends. 
 
 ### 🔭 Current Focus
-- **Building**: ResumeForge (SaaS Builder) & Sahayata (AI-Powered AML Platform).
+- **Building**: Sahayata (AI-Powered AML Platform).
 - **Learning**: Advanced full-stack system design & scalable cloud architectures.
 - **Goal**: Software Engineering / Full-Stack Developer Internships.
 
